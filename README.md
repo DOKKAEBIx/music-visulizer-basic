@@ -1,8 +1,4 @@
 # 🎵 Music Visualizer 🎶
-   .-^-.
- .'     . /  _   _  \ | (_) (_) | |    |    | |  \___/  |  \       /   .___.'
-
-CopyReplit
 
 ## Overview
 
